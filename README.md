@@ -32,7 +32,7 @@
 
 # 学生分组
 
-
+https://github.com/computational-class/new-media/issues/1
 
 # 阅读材料
 

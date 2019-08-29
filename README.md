@@ -113,4 +113,4 @@
 
 
 
-<img src = 'https://github.com/computational-class/new-media/blob/master/time.jpg' width = 800>
+<img src = 'https://github.com/computational-class/new-media/blob/master/time2.jpg' width = 800>

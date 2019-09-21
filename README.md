@@ -36,6 +36,11 @@ https://github.com/computational-class/new-media/issues/1
 
 # 阅读材料
 
+## 新媒体简介
+
+- The New Media Theory Reader. Robert Hassan; Julian Thomas. Open University Press, 2006
+- The language of new media. Lev Manovich. The MIT Press, 2002
+
 
 ## 智能手机与生活方式
 
